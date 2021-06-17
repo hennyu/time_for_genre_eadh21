@@ -1,4 +1,5 @@
 # Time for Genre
+[![DOI](https://zenodo.org/badge/377750846.svg)](https://zenodo.org/badge/latestdoi/377750846)
 
 Data and scripts accompanying the paper "Time for Genre: Temporal Expressions as Features for the Classification of Literary Subgenres" authored by Ulrike Henny-Krahmer and submitted to the conference EADH2021.
 
