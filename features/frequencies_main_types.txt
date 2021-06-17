@@ -1,0 +1,4 @@
+DATE has 2851 different features
+TIME has 86 different features
+DURATION has 1227 different features
+SET has 101 different features
