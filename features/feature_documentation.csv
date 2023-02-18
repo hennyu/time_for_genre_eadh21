@@ -1,0 +1,59 @@
+feature_name,feature_description
+tpx_all,"number of all kinds of temporal expressions (DATE, TIME, DURATION, SET)"
+DATE,number of DATE expressions
+TIME,number of TIME expressions
+DURATION,number of DURATION expressions
+SET,number of SET expressions
+PRESENT_REF,temporal expressions that refer to the present in general terms
+FUTURE_REF,temporal expressions that refer to the future in general terms
+PAST_REF,temporal expressions that refer to the past in general terms
+SP,temporal expressions referring to spring or springtime
+SU,temporal expressions referring to summer or summertime
+FA,temporal expressions referring to autumn/fall
+WI,temporal expressions referring to winter or wintertime
+WE,temporal expressions referring to weekends
+MO,temporal expressions referring to the morning
+MI,temporal expressions referring to mid-day
+AF,temporal expressions referring to the afternoon
+EV,temporal expressions referring to the evening
+NI,temporal expressions referring to the night
+DATE_century,DATE expressions that refer to centuries (whether specified or not)
+DATE_decade,DATE expressions that refer to decades (whether specified or not)
+DATE_year,DATE expressions that refer to years (whether specified or not)
+DATE_month,DATE expressions that refer to months (whether specified or not)
+DATE_day,DATE expressions that refer to days (whether specified or not)
+DATE_spec_none,"DATE expressions where no value is specified (""last year"")"
+DATE_spec_year,"DATE expressions where just the year is specified (""1877"")"
+DATE_spec_year_month,"DATE expressions where just year and month are specified (""March 1877"")"
+DATE_spec_month,"DATE expressions where just the month is specified (""March"")"
+DATE_spec_day,"DATE expressions where just the day is specified (""on the 2nd"") "
+DATE_spec_month_day,"DATE expressions where just month and day are specified (""on the 2nd of March"")"
+DATE_spec_any,DATE expressions where any part is specified
+DATE_spec_full,"DATE expressions where all parts (year, month, day) are specified (""on the 2nd of March 1877"")"
+TIME_daytime,TIME expressions that refer to daytimes (whether specified or not)
+TIME_hour,TIME expressions that refer to hours (whether specified or not)
+TIME_minute,TIME expressions that refer to minutes (whether specified or not)
+TIME_day_spec,TIME expressions where the time of the day (e.g. hour or minute) is specified
+DURATION_century,DURATION expressions that refer to centuries (whether specified or not)
+DURATION_decade,DURATION expressions that refer to decades (whether specified or not)
+DURATION_year,DURATION expressions that refer to years (whether specified or not)
+DURATION_month,DURATION expressions that refer to months (whether specified or not)
+DURATION_week,DURATION expressions that refer to weeks (whether specified or not)
+DURATION_day,DURATION expressions that refer to days (whether specified or not)
+DURATION_daytime,DURATION expressions that refer to daytimes (whether specified or not)
+DURATION_hour,DURATION expressions that refer to hours (whether specified or not)
+DURATION_minute,DURATION expressions that refer to minutes (whether specified or not)
+SET_century,SET expressions that refer to centuries (whether specified or not)
+SET_decade,SET expressions that refer to decades (whether specified or not)
+SET_year,SET expressions that refer to years (whether specified or not)
+SET_month,SET expressions that refer to months (whether specified or not)
+SET_week,SET expressions that refer to weeks (whether specified or not)
+SET_day,SET expressions that refer to days (whether specified or not)
+SET_daytime,SET expressions that refer to daytimes (whether specified or not)
+SET_hour,SET expressions that refer to hours (whether specified or not)
+SET_minute,SET expressions that refer to minutes (whether specified or not)
+VERB_present,verbs in present tense
+VERB_imperfect,verbs in imperfect tense
+VERB_future,verbs in future tense
+VERB_past,verbs in past tense
+VERB_conditional,verbs in conditional tense

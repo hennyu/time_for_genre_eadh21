@@ -117,8 +117,6 @@ def evaluate_results_main_temp_ex_types():
 		
 		# plot 20 mf as bar chart
 		mf20 = sums[0:20]
-		
-		animals=['giraffes', 'orangutans', 'monkeys']
 
 		fig = go.Figure([go.Bar(x=mf20.index, y=list(mf20))])
 		fig.update_layout(autosize=False, width=600, height=500, title="Top 20 temporal expressions (" + mt + ")")
